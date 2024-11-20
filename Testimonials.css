@@ -1,0 +1,116 @@
+*{ 
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    font-size:20px ;
+    gap: 10px;
+    color: black;
+}
+
+.row img{
+    width: 20px;
+    height: 20px;
+}
+
+nav{
+    padding: 15px 18px;
+    background-color: blanchedalmond;
+    height: 20px;
+    border-bottom: 1px solid black;
+    background-image:url() ;
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    display: flex;
+}
+
+.banner .img1{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 143px;
+    right: 0;
+    top: 204px;
+    bottom: 0;
+}
+
+.banner .img2{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 1172px;
+    right: 0px;
+    top: 419px;
+    bottom: 40px;
+}
+
+.banner .img3{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 143px;
+    right: 0;
+    top: 643px;
+    bottom: 0;
+}
+
+.banner-text h1 {  
+    font-size: 55px;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 46px;
+    margin-left: 529px;
+    font-weight: 100;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.banner-text1 p { 
+    font-size: 27px;
+    margin-left: -633px;
+    margin-top: 45px;
+    padding: 123px;
+    border-bottom: 1px black;
+}
+
+.banner-text2 p {
+    font-size: 23px;
+    margin-left: -623px;
+    margin-top: 105px;
+    padding: 109px;
+}
+
+.banner-text3 p {
+    font-size: 23px;
+    margin-left: -1181px;
+    margin-top: 112px;
+    padding: 298px;
+}
+
+.banner-text4 p {
+    font-size: 23px;
+    margin-left: -1181px;
+    margin-top: 152px;
+    padding: 298px;
+}
+
+.banner-text5 p {
+    font-size: 23px;
+    margin-left: -1324px;
+    margin-top: 305px;
+    padding: 327px;
+}
+
+.banner-text6 p {
+    font-size: 23px;
+    margin-left: -1333px;
+    margin-top: 352px;
+    padding: 327px;
+}

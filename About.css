@@ -1,0 +1,80 @@
+*{ 
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    font-size:20px ;
+    gap: 10px;
+    color: black;
+}
+
+.row img{
+    width: 20px;
+    height: 20px;
+}
+
+nav{
+    padding: 15px 18px;
+    background-color: blanchedalmond;
+    height: 20px;
+    border-bottom: 1px solid black;
+    background-image:url() ;
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    display: flex;
+}
+
+.banner .img1{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 45px;
+    right: 0;
+    top: 273px;
+    bottom: 0;
+}
+
+.banner .img2{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 217px;
+    right: 0px;
+    top: 424px;
+    bottom: 40px;
+}
+
+.banner .img3{
+    width: 210px;
+    height: auto;
+    position: absolute;
+    left: 70px;
+    right: 0;
+    top: 570px;
+    bottom: 0;
+}
+
+.banner-text h1 {  
+    font-size: 55px;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 294px;
+    margin-left: 465px;
+    font-weight: 100;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.banner-text p { 
+    font-size: 27px;
+    margin-left: 343px;
+    margin-top: -114px;
+    padding: 123px;
+    
+}
